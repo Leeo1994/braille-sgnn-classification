@@ -8,4 +8,4 @@ University of Bristol Master's thesis. A pipeline that classifies braille letter
 - Compares temporal binning windows (25-100 ms); the best setup, spike-count directed graphs, reached 46.7% accuracy
 
 ## Based on
-Uses a modified version of the [TactiGraph]([https://github.com/AdvancedResearchInnovationCenter/TactiGraph]) algorithm.
+Uses a modified version of the [TactiGraph](https://github.com/AdvancedResearchInnovationCenter/TactiGraph) algorithm.
